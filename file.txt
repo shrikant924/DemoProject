@@ -1,0 +1,5 @@
+ while (scanner.hasNextLine()){
+                    String data = scanner.nextLine();
+                    System.out.println(data);
+                    scanner.close();
+                }
