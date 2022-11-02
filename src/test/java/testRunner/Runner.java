@@ -7,6 +7,7 @@ import org.testng.annotations.DataProvider;
 @CucumberOptions(
         features =".//src/test/resources/Featurefiles/",
         glue = "StepDefinitions",
+        plugin = {"pretty","html:Report/report.html"},
         dryRun = false,
         monochrome = true
 )

@@ -1,0 +1,7 @@
+{
+  "automationName": "Appium",
+  "platformName": "Android",
+  "platformVersion": "12.0",
+  "App": "C:\\Users\\shrikantl\\Downloads\\Binge Freemium [4.0.21].apk",
+  "deviceName": "emulator-5554"
+}
